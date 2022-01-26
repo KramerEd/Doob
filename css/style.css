@@ -302,6 +302,7 @@ body {
     font-size: 48.5px;
     color: #ff3946;
     margin-top: 25px;
+
 }
 .footer__nav {
     margin-top: 45px;
@@ -504,6 +505,7 @@ body {
     }
     .cards__header {
         margin: 40px 0;
+        text-align: center;
     }
     .cards__row {
         justify-content: center;
@@ -511,5 +513,11 @@ body {
     .contact-us {
         text-align: center;
         margin-top: 50px;
+    }
+    .footer__header {
+        font-size: 28.5px;
+    }
+    .footer__nav{
+        flex-wrap: wrap;
     }
 }
